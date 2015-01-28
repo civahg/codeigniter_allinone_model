@@ -1,0 +1,1 @@
+# codeigniter_allinone_model
